@@ -10,9 +10,11 @@
 
 
 ##General Info
+
 Perform exploratory data analysis in Python to find insightful information about restaurants in city of India
 
 ##Technologies
+
 Jupyter notebook
 
 Python 
