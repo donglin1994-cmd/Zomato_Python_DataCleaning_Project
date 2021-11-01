@@ -10,13 +10,15 @@ Technologies
 
 Jupyter notebook
 Python 
-Numpy
-Pandas
-Seaborn
-Matplotlib
-Launch:
-Jupyter notebook
+Numpy,Pandas
+Seaborn,Matplotlib
+
 
 
 Setup
-To run this project,
+To run this project,start with
+
+install Anaconda
+downloading python3x
+On terminal:
+$ jupyter notebook
