@@ -11,15 +11,15 @@
 
 ##General Info
 
-Perform exploratory data analysis in Python to find insightful information about restaurants in city of India
+Perform exploratory data analysis in Python to find insightful information about restaurants in the city of India
 
 ##Technologies
 
-Jupyter notebook
+Jupyter Notebook
 
 Python 
 
-Numpy,Pandas
+NumPy,Pandas
 
 Seaborn,Matplotlib
 
